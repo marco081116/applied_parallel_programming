@@ -1,1 +1,1 @@
-# applied_parallel_programming
+# Image Classification using Convolution Neural Network
